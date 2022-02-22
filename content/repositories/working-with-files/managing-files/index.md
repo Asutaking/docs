@@ -1,4 +1,4 @@
----
+Show me love---
 title: Managing files
 intro: 'You can create, edit, move, and delete files in a repository, directly on {% data variables.product.product_name %} or on the command line.'
 redirect_from:
